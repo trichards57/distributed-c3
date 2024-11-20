@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedC3", "DistributedC3\DistributedC3\DistributedC3.csproj", "{487C1D44-8FDD-472E-97A4-13F0BE5F4A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedC3.Client", "DistributedC3\DistributedC3.Client\DistributedC3.Client.csproj", "{97CDC3AA-1370-431A-9A17-6010ED951CF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487C1D44-8FDD-472E-97A4-13F0BE5F4A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487C1D44-8FDD-472E-97A4-13F0BE5F4A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487C1D44-8FDD-472E-97A4-13F0BE5F4A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487C1D44-8FDD-472E-97A4-13F0BE5F4A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97CDC3AA-1370-431A-9A17-6010ED951CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CDC3AA-1370-431A-9A17-6010ED951CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CDC3AA-1370-431A-9A17-6010ED951CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CDC3AA-1370-431A-9A17-6010ED951CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6CCCE84-C150-4171-8ABB-4E2488074827}
+	EndGlobalSection
+EndGlobal
